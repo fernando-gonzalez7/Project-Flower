@@ -36,7 +36,7 @@ public class Game implements Runnable {
 		}
 		g = bs.getDrawGraphics();
 		//Draw here
-		
+		//nah
 		//End drawing
 		bs.show();
 		g.dispose();
