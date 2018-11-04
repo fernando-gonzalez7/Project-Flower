@@ -1,2 +1,0 @@
-# Project-Flower
-Personal project
